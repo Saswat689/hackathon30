@@ -1,0 +1,2524 @@
+[
+  {
+    "id": 4,
+    "name": "AICTE Saksham Scholarship",
+    "state": "All",
+    "incomeLimit": 800000,
+    "educationalRequirement": "12th",
+    "course": "Engineering",
+    "category": "PwD",
+    "description": "Scholarship for specially-abled students pursuing AICTE-approved technical courses.",
+    "documents": [
+      "Aadhaar",
+      "Income Certificate",
+      "Disability Certificate",
+      "Admission Letter"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "AICTE Swanath Scholarship",
+    "state": "All",
+    "incomeLimit": 800000,
+    "educationalRequirement": "12th",
+    "course": "Engineering",
+    "category": "Orphan/Single Parent",
+    "description": "Scholarship for orphan students, wards of armed forces, or students affected by special circumstances.",
+    "documents": [
+      "Aadhaar",
+      "Income Certificate",
+      "Supporting Eligibility Certificate"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "INSPIRE Scholarship (SHE)",
+    "state": "All",
+    "incomeLimit": null,
+    "educationalRequirement": "12th",
+    "course": "Science",
+    "category": "Any",
+    "description": "Scholarship for top-performing students pursuing basic science courses.",
+    "documents": ["12th Marksheet", "Admission Letter", "Aadhaar"]
+  },
+  {
+    "id": 7,
+    "name": "PM YASASVI Top Class Education Scheme",
+    "state": "All",
+    "incomeLimit": 250000,
+    "educationalRequirement": "9th",
+    "course": "Any",
+    "category": "OBC/EBC/DNT",
+    "description": "Financial assistance for OBC, EBC and DNT students studying in top institutions.",
+    "documents": [
+      "Caste Certificate",
+      "Income Certificate",
+      "Aadhaar",
+      "Admission Proof"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Post Matric Scholarship for SC Students",
+    "state": "All",
+    "incomeLimit": 250000,
+    "educationalRequirement": "10th",
+    "course": "Any",
+    "category": "SC",
+    "description": "Scholarship for Scheduled Caste students pursuing post-matric education.",
+    "documents": [
+      "SC Certificate",
+      "Income Certificate",
+      "Aadhaar",
+      "Bonafide Certificate"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Post Matric Scholarship for ST Students",
+    "state": "All",
+    "incomeLimit": 250000,
+    "educationalRequirement": "10th",
+    "course": "Any",
+    "category": "ST",
+    "description": "Scholarship for Scheduled Tribe students pursuing higher education.",
+    "documents": ["ST Certificate", "Income Certificate", "Aadhaar"]
+  },
+  {
+    "id": 10,
+    "name": "National Means-cum-Merit Scholarship (NMMS)",
+    "state": "All",
+    "incomeLimit": 350000,
+    "educationalRequirement": "8th",
+    "course": "School",
+    "category": "Any",
+    "description": "Scholarship to reduce dropout rates among economically weaker students.",
+    "documents": ["Income Certificate", "Aadhaar", "School Certificate"]
+  },
+  {
+    "id": 11,
+    "name": "Reliance Foundation Undergraduate Scholarship",
+    "state": "All",
+    "incomeLimit": 1500000,
+    "educationalRequirement": "12th",
+    "course": "Any",
+    "category": "Any",
+    "description": "Merit-cum-means scholarship for first-year undergraduate students.",
+    "documents": [
+      "12th Marksheet",
+      "Income Certificate",
+      "Admission Letter",
+      "Aadhaar"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Foundation for Excellence Scholarship",
+    "state": "All",
+    "incomeLimit": 300000,
+    "educationalRequirement": "12th",
+    "course": "Engineering",
+    "category": "Any",
+    "description": "Scholarship for economically disadvantaged engineering students.",
+    "documents": ["Income Certificate", "Admission Letter", "12th Marksheet"]
+  },
+  {
+    "id": 13,
+    "name": "LIC Golden Jubilee Scholarship",
+    "state": "All",
+    "incomeLimit": 450000,
+    "educationalRequirement": "12th",
+    "course": "Any",
+    "category": "Any",
+    "description": "Scholarship for meritorious students from economically weaker families.",
+    "documents": ["Income Certificate", "12th Marksheet", "Aadhaar"]
+  },
+  {
+    "id": 14,
+    "name": "ONGC Merit Scholarship",
+    "state": "All",
+    "incomeLimit": 250000,
+    "educationalRequirement": "12th",
+    "course": "Engineering",
+    "category": "Any",
+    "description": "Merit scholarship for engineering, MBBS, MBA and geophysics students.",
+    "documents": [
+      "Income Certificate",
+      "12th Marksheet",
+      "Admission Letter",
+      "Aadhaar"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Kotak Kanya Scholarship",
+    "state": "All",
+    "incomeLimit": 600000,
+    "educationalRequirement": "12th",
+    "course": "Professional",
+    "category": "Girls",
+    "description": "Scholarship for girl students pursuing professional undergraduate courses.",
+    "documents": [
+      "Income Certificate",
+      "12th Marksheet",
+      "Admission Letter",
+      "Aadhaar"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Prime Minister's Scholarship Scheme (PMSS)",
+    "state": "All",
+    "incomeLimit": null,
+    "educationalRequirement": "12th",
+    "course": "Professional",
+    "category": "Ward of Ex-Servicemen",
+    "description": "Scholarship for dependent wards and widows of Ex-Servicemen pursuing professional courses.",
+    "documents": [
+      "Aadhaar",
+      "Service Certificate",
+      "Admission Letter",
+      "12th Marksheet"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "National Fellowship and Scholarship for Higher Education of ST Students",
+    "state": "All",
+    "incomeLimit": 600000,
+    "educationalRequirement": "12th",
+    "course": "Any",
+    "category": "ST",
+    "description": "Financial assistance for Scheduled Tribe students pursuing higher education.",
+    "documents": [
+      "ST Certificate",
+      "Income Certificate",
+      "Aadhaar",
+      "Admission Letter"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Top Class Education Scheme for SC Students",
+    "state": "All",
+    "incomeLimit": 800000,
+    "educationalRequirement": "12th",
+    "course": "Professional",
+    "category": "SC",
+    "description": "Scholarship for SC students studying in premier institutions.",
+    "documents": [
+      "SC Certificate",
+      "Income Certificate",
+      "Admission Letter",
+      "Aadhaar"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Begum Hazrat Mahal National Scholarship",
+    "state": "All",
+    "incomeLimit": 200000,
+    "educationalRequirement": "8th",
+    "course": "School",
+    "category": "Minority Girls",
+    "description": "Scholarship for meritorious minority girl students.",
+    "documents": [
+      "Income Certificate",
+      "Minority Certificate",
+      "School Certificate",
+      "Aadhaar"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Pre-Matric Scholarship for Minorities",
+    "state": "All",
+    "incomeLimit": 100000,
+    "educationalRequirement": "9th",
+    "course": "School",
+    "category": "Minority",
+    "description": "Scholarship for minority students studying from Class 1 to 10.",
+    "documents": ["Income Certificate", "School Certificate", "Aadhaar"]
+  },
+  {
+    "id": 21,
+    "name": "Post-Matric Scholarship for Minorities",
+    "state": "All",
+    "incomeLimit": 200000,
+    "educationalRequirement": "10th",
+    "course": "Any",
+    "category": "Minority",
+    "description": "Scholarship for minority students pursuing higher education.",
+    "documents": ["Income Certificate", "Previous Marksheet", "Aadhaar"]
+  },
+  {
+    "id": 22,
+    "name": "Merit-cum-Means Scholarship for Professional and Technical Courses",
+    "state": "All",
+    "incomeLimit": 250000,
+    "educationalRequirement": "12th",
+    "course": "Professional",
+    "category": "Minority",
+    "description": "Scholarship for minority students enrolled in professional and technical courses.",
+    "documents": [
+      "Income Certificate",
+      "Admission Letter",
+      "Minority Certificate",
+      "Aadhaar"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "National Scholarship for Persons with Disabilities",
+    "state": "All",
+    "incomeLimit": 250000,
+    "educationalRequirement": "10th",
+    "course": "Any",
+    "category": "PwD",
+    "description": "Scholarship for students with benchmark disabilities.",
+    "documents": ["Disability Certificate", "Income Certificate", "Aadhaar"]
+  },
+  {
+    "id": 24,
+    "name": "Tata Capital Pankh Scholarship",
+    "state": "All",
+    "incomeLimit": 250000,
+    "educationalRequirement": "10th",
+    "course": "Any",
+    "category": "Any",
+    "description": "Financial support for economically weaker students from Class 11 onwards.",
+    "documents": ["Income Certificate", "Previous Marksheet", "Aadhaar"]
+  },
+  {
+    "id": 25,
+    "name": "HDFC Bank Parivartan ECSS Scholarship",
+    "state": "All",
+    "incomeLimit": 250000,
+    "educationalRequirement": "6th",
+    "course": "Any",
+    "category": "Any",
+    "description": "Scholarship for deserving students facing financial hardships.",
+    "documents": ["Income Certificate", "School/College ID", "Aadhaar"]
+  },
+  {
+    "id": 26,
+    "name": "SBI Asha Scholarship",
+    "state": "All",
+    "incomeLimit": 600000,
+    "educationalRequirement": "12th",
+    "course": "Any",
+    "category": "Any",
+    "description": "Need-based scholarship for undergraduate and postgraduate students.",
+    "documents": [
+      "Income Certificate",
+      "Admission Letter",
+      "Aadhaar",
+      "Marksheet"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Aditya Birla Scholarship",
+    "state": "All",
+    "incomeLimit": null,
+    "educationalRequirement": "12th",
+    "course": "Engineering",
+    "category": "Merit",
+    "description": "Scholarship for top-performing students admitted to premier institutes.",
+    "documents": ["Admission Letter", "12th Marksheet", "Identity Proof"]
+  },
+  {
+    "id": 28,
+    "name": "Sitaram Jindal Scholarship",
+    "state": "All",
+    "incomeLimit": 400000,
+    "educationalRequirement": "10th",
+    "course": "Any",
+    "category": "Any",
+    "description": "Merit-cum-means scholarship for students from school to postgraduate level.",
+    "documents": ["Income Certificate", "Previous Marksheet", "Aadhaar"]
+  },
+  {
+    "id": 29,
+    "name": "Ishan Uday Special Scholarship",
+    "state": "North Eastern States",
+    "incomeLimit": 450000,
+    "educationalRequirement": "12th",
+    "course": "Any",
+    "category": "Any",
+    "description": "Scholarship for students from the North Eastern Region pursuing higher education.",
+    "documents": [
+      "Domicile Certificate",
+      "Admission Letter",
+      "Income Certificate",
+      "Aadhaar"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "National Scholarship for Post Graduate Studies",
+    "state": "All",
+    "incomeLimit": null,
+    "educationalRequirement": "Graduation",
+    "course": "Postgraduate",
+    "category": "Any",
+    "description": "Scholarship for students pursuing eligible postgraduate degree programs.",
+    "documents": ["Graduation Marksheet", "Admission Letter", "Aadhaar"]
+  },
+  {
+    "id": 31,
+    "name": "Tamil Nadu BC/MBC/DNC Post Matric Scholarship",
+    "state": "Tamil Nadu",
+    "incomeLimit": 200000,
+    "educationalRequirement": "10th",
+    "course": "Any",
+    "category": "BC/MBC/DNC",
+    "description": "Scholarship for BC, MBC and DNC students pursuing post-matric education.",
+    "documents": [
+      "Community Certificate",
+      "Income Certificate",
+      "Aadhaar",
+      "Bonafide Certificate"
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Tamil Nadu SC/ST Post Matric Scholarship",
+    "state": "Tamil Nadu",
+    "incomeLimit": 250000,
+    "educationalRequirement": "10th",
+    "course": "Any",
+    "category": "SC/ST",
+    "description": "Financial assistance for SC and ST students pursuing higher education.",
+    "documents": [
+      "Community Certificate",
+      "Income Certificate",
+      "Aadhaar",
+      "Admission Proof"
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Tamil Nadu First Graduate Tuition Fee Concession",
+    "state": "Tamil Nadu",
+    "incomeLimit": null,
+    "educationalRequirement": "12th",
+    "course": "Professional",
+    "category": "First Graduate",
+    "description": "Tuition fee concession for first graduate students admitted to professional courses.",
+    "documents": [
+      "First Graduate Certificate",
+      "Joint Declaration",
+      "Admission Letter"
+    ]
+  },
+  {
+    "id": 34,
+    "name": "EVR Nagammai Scholarship",
+    "state": "Tamil Nadu",
+    "incomeLimit": 50000,
+    "educationalRequirement": "12th",
+    "course": "Arts and Science",
+    "category": "Girls",
+    "description": "Scholarship for girl students studying in Government Arts and Science Colleges.",
+    "documents": ["Income Certificate", "College ID", "Aadhaar"]
+  },
+  {
+    "id": 35,
+    "name": "Pudhumai Penn Scheme",
+    "state": "Tamil Nadu",
+    "incomeLimit": null,
+    "educationalRequirement": "12th",
+    "course": "Any",
+    "category": "Girls",
+    "description": "Monthly financial assistance for girls from government schools pursuing higher education.",
+    "documents": ["School Transfer Certificate", "Admission Letter", "Aadhaar"]
+  },
+  {
+    "id": 36,
+    "name": "Tamil Pudhalvan Scheme",
+    "state": "Tamil Nadu",
+    "incomeLimit": null,
+    "educationalRequirement": "12th",
+    "course": "Any",
+    "category": "Boys",
+    "description": "Monthly financial assistance for boys from government schools continuing higher education.",
+    "documents": ["School Certificate", "Admission Letter", "Aadhaar"]
+  },
+  {
+    "id": 37,
+    "name": "Chief Minister Merit Scholarship",
+    "state": "Tamil Nadu",
+    "incomeLimit": null,
+    "educationalRequirement": "12th",
+    "course": "Any",
+    "category": "Merit",
+    "description": "Scholarship awarded to top-ranking Plus Two students pursuing higher education.",
+    "documents": ["12th Marksheet", "Admission Letter", "Aadhaar"]
+  },
+  {
+    "id": 38,
+    "name": "Free Education Scheme for BC Students",
+    "state": "Tamil Nadu",
+    "incomeLimit": 50000,
+    "educationalRequirement": "12th",
+    "course": "Professional",
+    "category": "BC",
+    "description": "Free education scheme covering tuition fees for eligible BC students.",
+    "documents": [
+      "Community Certificate",
+      "Income Certificate",
+      "Admission Letter"
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Free Education Scheme for MBC/DNC Students",
+    "state": "Tamil Nadu",
+    "incomeLimit": 50000,
+    "educationalRequirement": "12th",
+    "course": "Professional",
+    "category": "MBC/DNC",
+    "description": "Fee concession for eligible Most Backward and Denotified Community students.",
+    "documents": [
+      "Community Certificate",
+      "Income Certificate",
+      "Admission Letter"
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Pre Matric Scholarship for BC/MBC Students",
+    "state": "Tamil Nadu",
+    "incomeLimit": 100000,
+    "educationalRequirement": "6th",
+    "course": "School",
+    "category": "BC/MBC",
+    "description": "Scholarship for BC and MBC students studying from Class 6 to 10.",
+    "documents": [
+      "School Certificate",
+      "Income Certificate",
+      "Community Certificate"
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Scholarship for Differently Abled Students",
+    "state": "Tamil Nadu",
+    "incomeLimit": null,
+    "educationalRequirement": "10th",
+    "course": "Any",
+    "category": "PwD",
+    "description": "Financial assistance for differently abled students pursuing higher education.",
+    "documents": ["Disability Certificate", "Aadhaar", "Admission Letter"]
+  },
+  {
+    "id": 42,
+    "name": "Higher Education Special Scholarship for SC/ST Hostellers",
+    "state": "Tamil Nadu",
+    "incomeLimit": 250000,
+    "educationalRequirement": "12th",
+    "course": "Any",
+    "category": "SC/ST",
+    "description": "Special scholarship for SC/ST students staying in hostels while pursuing higher education.",
+    "documents": [
+      "Hostel Certificate",
+      "Community Certificate",
+      "Income Certificate"
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Annal Ambedkar Overseas Scholarship",
+    "state": "Tamil Nadu",
+    "incomeLimit": 800000,
+    "educationalRequirement": "Graduation",
+    "course": "Postgraduate",
+    "category": "SC/ST",
+    "description": "Financial assistance for SC/ST students pursuing higher studies abroad.",
+    "documents": [
+      "Community Certificate",
+      "Passport",
+      "University Admission Letter",
+      "Income Certificate"
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Periyar EVR Scholarship for Polytechnic Students",
+    "state": "Tamil Nadu",
+    "incomeLimit": 200000,
+    "educationalRequirement": "10th",
+    "course": "Polytechnic",
+    "category": "Any",
+    "description": "Financial assistance for eligible diploma students in Tamil Nadu.",
+    "documents": ["10th Marksheet", "Admission Letter", "Income Certificate"]
+  },
+  {
+    "id": 45,
+    "name": "Government Arts and Science College Fee Concession",
+    "state": "Tamil Nadu",
+    "incomeLimit": 200000,
+    "educationalRequirement": "12th",
+    "course": "Arts and Science",
+    "category": "Any",
+    "description": "Fee concession for economically weaker students enrolled in Government Arts and Science Colleges.",
+    "documents": ["Income Certificate", "Admission Letter", "Aadhaar"]
+  },
+  {
+    "id": 46,
+    "name": "e-Grantz Scholarship",
+    "state": "Kerala",
+    "incomeLimit": 100000,
+    "educationalRequirement": "10th",
+    "course": "Any",
+    "category": "SC/ST/OBC/OEC",
+    "description": "Financial assistance for eligible students pursuing post-matric education in Kerala.",
+    "documents": [
+      "Aadhaar",
+      "Community Certificate",
+      "Income Certificate",
+      "Admission Letter"
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Suvarna Jubilee Merit Scholarship",
+    "state": "Kerala",
+    "incomeLimit": 800000,
+    "educationalRequirement": "12th",
+    "course": "Degree",
+    "category": "Merit",
+    "description": "Scholarship for meritorious students pursuing undergraduate courses in Kerala.",
+    "documents": ["12th Marksheet", "Income Certificate", "Admission Letter"]
+  },
+  {
+    "id": 48,
+    "name": "CH Muhammed Koya Scholarship",
+    "state": "Kerala",
+    "incomeLimit": 800000,
+    "educationalRequirement": "12th",
+    "course": "Any",
+    "category": "Minority Girls",
+    "description": "Scholarship for girls belonging to minority communities pursuing higher education.",
+    "documents": [
+      "Minority Certificate",
+      "Income Certificate",
+      "Admission Letter",
+      "Aadhaar"
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Prof. Joseph Mundassery Scholarship",
+    "state": "Kerala",
+    "incomeLimit": 800000,
+    "educationalRequirement": "10th",
+    "course": "Any",
+    "category": "Minority",
+    "description": "Merit scholarship for minority students securing high marks in qualifying examinations.",
+    "documents": ["Marksheet", "Minority Certificate", "Aadhaar"]
+  },
+  {
+    "id": 50,
+    "name": "Mother Teresa Scholarship",
+    "state": "Kerala",
+    "incomeLimit": 800000,
+    "educationalRequirement": "Graduation",
+    "course": "Nursing",
+    "category": "minority",
+    "description": "Scholarship for students pursuing nursing and paramedical courses.",
+    "documents": ["Admission Letter", "Income Certificate", "Aadhaar"]
+  },
+  {
+    "id": 52,
+    "name": "Blind/PH Scholarship",
+    "state": "Kerala",
+    "incomeLimit": 450000,
+    "educationalRequirement": "10th",
+    "course": "Any",
+    "category": "PwD",
+    "description": "Financial assistance for visually impaired and differently-abled students.",
+    "documents": ["Disability Certificate", "Admission Letter", "Aadhaar"]
+  },
+  {
+    "id": 53,
+    "name": "Muslim Nadar Girls Scholarship",
+    "state": "Kerala",
+    "incomeLimit": 800000,
+    "educationalRequirement": "10th",
+    "course": "Any",
+    "category": "Muslim Nadar Girls",
+    "description": "Scholarship for Muslim Nadar girl students pursuing higher education.",
+    "documents": [
+      "Community Certificate",
+      "Income Certificate",
+      "Admission Letter"
+    ]
+  },
+  {
+    "id": 54,
+    "name": "District Merit Scholarship",
+    "state": "Kerala",
+    "incomeLimit": null,
+    "educationalRequirement": "12th",
+    "course": "Degree",
+    "category": "Merit",
+    "description": "Scholarship for district-level top rank holders joining undergraduate courses.",
+    "documents": ["12th Marksheet", "Admission Letter", "Identity Proof"]
+  },
+  {
+    "id": 55,
+    "name": "Higher Education Council Scholarship",
+    "state": "Kerala",
+    "incomeLimit": null,
+    "educationalRequirement": "12th",
+    "course": "Degree",
+    "category": "Any",
+    "description": "Scholarship offered by the Kerala State Higher Education Council for eligible first-year undergraduate students.",
+    "documents": ["Admission Letter", "12th Marksheet", "Aadhaar"]
+  },
+  {
+    "id": 56,
+    "name": "APJ Abdul Kalam Scholarship",
+    "state": "Kerala",
+    "incomeLimit": 800000,
+    "educationalRequirement": "12th",
+    "course": "Engineering",
+    "category": "Minority",
+    "description": "Scholarship for minority students pursuing AICTE-approved engineering courses.",
+    "documents": [
+      "Minority Certificate",
+      "Admission Letter",
+      "Income Certificate"
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Ashabhavan Scholarship",
+    "state": "Kerala",
+    "incomeLimit": 100000,
+    "educationalRequirement": "10th",
+    "course": "Any",
+    "category": "Orphan",
+    "description": "Financial assistance for orphan students studying in recognized institutions.",
+    "documents": [
+      "Guardian Certificate",
+      "Income Certificate",
+      "Admission Letter"
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Kerala LSS Scholarship",
+    "state": "Kerala",
+    "incomeLimit": null,
+    "educationalRequirement": "4th",
+    "course": "School",
+    "category": "Any",
+    "description": "Scholarship awarded to students qualifying the Lower Secondary Scholarship examination.",
+    "documents": ["School Certificate", "LSS Score Card"]
+  },
+  {
+    "id": 59,
+    "name": "Kerala USS Scholarship",
+    "state": "Kerala",
+    "incomeLimit": null,
+    "educationalRequirement": "7th",
+    "course": "School",
+    "category": "Any",
+    "description": "Scholarship awarded to students qualifying the Upper Secondary Scholarship examination.",
+    "documents": ["School Certificate", "USS Score Card"]
+  },
+  {
+    "id": 60,
+    "name": "State Merit Scholarship",
+    "state": "Kerala",
+    "incomeLimit": null,
+    "educationalRequirement": "12th",
+    "course": "Degree",
+    "category": "Merit",
+    "description": "Scholarship for students with outstanding academic performance admitted to degree programmes.",
+    "documents": ["12th Marksheet", "Admission Letter", "Aadhaar"]
+  },
+  {
+    "id": 61,
+    "name": "SSP Post Matric Scholarship - Social Welfare Department",
+    "state": "Karnataka",
+    "incomeLimit": 250000,
+    "educationalRequirement": "10th",
+    "course": "Any",
+    "category": "SC",
+    "description": "Post Matric Scholarship for Scheduled Caste students pursuing higher education.",
+    "documents": [
+      "Aadhaar",
+      "Caste Certificate",
+      "Income Certificate",
+      "Admission Letter"
+    ]
+  },
+  {
+    "id": 62,
+    "name": "SSP Post Matric Scholarship - Tribal Welfare Department",
+    "state": "Karnataka",
+    "incomeLimit": 250000,
+    "educationalRequirement": "10th",
+    "course": "Any",
+    "category": "ST",
+    "description": "Scholarship for Scheduled Tribe students studying in recognized institutions.",
+    "documents": [
+      "Aadhaar",
+      "ST Certificate",
+      "Income Certificate",
+      "Bonafide Certificate"
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Backward Classes Welfare Scholarship",
+    "state": "Karnataka",
+    "incomeLimit": 250000,
+    "educationalRequirement": "10th",
+    "course": "Any",
+    "category": "OBC",
+    "description": "Post Matric Scholarship for eligible Backward Class students.",
+    "documents": [
+      "Aadhaar",
+      "Caste Certificate",
+      "Income Certificate",
+      "Admission Proof"
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Minority Welfare Department Scholarship",
+    "state": "Karnataka",
+    "incomeLimit": 250000,
+    "educationalRequirement": "10th",
+    "course": "Any",
+    "category": "Minority",
+    "description": "Scholarship for minority students pursuing higher education.",
+    "documents": [
+      "Minority Certificate",
+      "Income Certificate",
+      "Aadhaar",
+      "Admission Letter"
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Department of Technical Education Scholarship",
+    "state": "Karnataka",
+    "incomeLimit": 800000,
+    "educationalRequirement": "12th",
+    "course": "Engineering",
+    "category": "Any",
+    "description": "Financial assistance for students enrolled in technical institutions.",
+    "documents": ["Admission Letter", "Income Certificate", "Aadhaar"]
+  },
+  {
+    "id": 66,
+    "name": "Disability Welfare Scholarship",
+    "state": "Karnataka",
+    "incomeLimit": 300000,
+    "educationalRequirement": "10th",
+    "course": "Any",
+    "category": "PwD",
+    "description": "Scholarship for students with benchmark disabilities.",
+    "documents": ["Disability Certificate", "Income Certificate", "Aadhaar"]
+  },
+  {
+    "id": 67,
+    "name": "Karnataka Labour Welfare Scholarship",
+    "state": "Karnataka",
+    "incomeLimit": null,
+    "educationalRequirement": "10th",
+    "course": "Any",
+    "category": "Children of Labourers",
+    "description": "Educational assistance for children of registered labourers.",
+    "documents": ["Labour Card", "Student ID", "Aadhaar"]
+  },
+  {
+    "id": 68,
+    "name": "Sandipani Scholarship",
+    "state": "Karnataka",
+    "incomeLimit": 800000,
+    "educationalRequirement": "12th",
+    "course": "Professional",
+    "category": "Brahmin",
+    "description": "Financial assistance for economically weaker Brahmin students pursuing higher education.",
+    "documents": [
+      "Community Certificate",
+      "Income Certificate",
+      "Admission Letter"
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Karnataka Farmer Child Scholarship",
+    "state": "Karnataka",
+    "incomeLimit": null,
+    "educationalRequirement": "10th",
+    "course": "Any",
+    "category": "Children of Farmers",
+    "description": "Educational assistance for children of eligible farmers.",
+    "documents": ["Farmer Certificate", "RTC Copy", "Admission Letter"]
+  },
+  {
+    "id": 70,
+    "name": "Vidyasiri Scholarship",
+    "state": "Karnataka",
+    "incomeLimit": 250000,
+    "educationalRequirement": "12th",
+    "course": "Professional",
+    "category": "OBC/SC/ST",
+    "description": "Scholarship and hostel assistance for eligible students pursuing higher education.",
+    "documents": [
+      "Income Certificate",
+      "Community Certificate",
+      "Aadhaar",
+      "Admission Letter"
+    ]
+  },
+  {
+    "id": 71,
+    "name": "Karnataka Prathibha Puraskar Scholarship",
+    "state": "Karnataka",
+    "incomeLimit": null,
+    "educationalRequirement": "10th",
+    "course": "Any",
+    "category": "Merit",
+    "description": "Cash award for students securing high marks in SSLC and PUC examinations.",
+    "documents": ["Marksheet", "Aadhaar", "Bank Passbook"]
+  },
+  {
+    "id": 72,
+    "name": "Pre Matric Scholarship - Minority Students",
+    "state": "Karnataka",
+    "incomeLimit": 100000,
+    "educationalRequirement": "1st",
+    "course": "School",
+    "category": "Minority",
+    "description": "Scholarship for minority students studying in Classes 1 to 10.",
+    "documents": [
+      "Income Certificate",
+      "Minority Certificate",
+      "School Certificate"
+    ]
+  },
+  {
+    "id": 73,
+    "name": "Fee Reimbursement Scheme",
+    "state": "Karnataka",
+    "incomeLimit": 250000,
+    "educationalRequirement": "12th",
+    "course": "Professional",
+    "category": "SC/ST/OBC",
+    "description": "Reimbursement of tuition fees for eligible students studying professional courses.",
+    "documents": ["Fee Receipt", "Income Certificate", "Community Certificate"]
+  },
+  {
+    "id": 74,
+    "name": "Merit Scholarship for Government College Students",
+    "state": "Karnataka",
+    "incomeLimit": null,
+    "educationalRequirement": "12th",
+    "course": "Degree",
+    "category": "Merit",
+    "description": "Merit scholarship for students admitted to Government Degree Colleges.",
+    "documents": ["12th Marksheet", "Admission Letter", "Aadhaar"]
+  },
+  {
+    "id": 75,
+    "name": "Hostel Scholarship Scheme",
+    "state": "Karnataka",
+    "incomeLimit": 250000,
+    "educationalRequirement": "10th",
+    "course": "Any",
+    "category": "SC/ST/OBC",
+    "description": "Hostel and maintenance allowance for students residing in government hostels.",
+    "documents": [
+      "Hostel Certificate",
+      "Income Certificate",
+      "Community Certificate"
+    ]
+  },
+  {
+    "id": 76,
+    "name": "Post Matric Scholarship for SC Students",
+    "state": "Haryana",
+    "incomeLimit": 250000,
+    "educationalRequirement": "10th",
+    "course": "Any",
+    "category": "SC",
+    "description": "Scholarship for Scheduled Caste students pursuing post-matric education in Haryana.",
+    "documents": [
+      "Aadhaar",
+      "SC Certificate",
+      "Income Certificate",
+      "Admission Letter"
+    ]
+  },
+  {
+    "id": 77,
+    "name": "Post Matric Scholarship for BC Students",
+    "state": "Haryana",
+    "incomeLimit": 250000,
+    "educationalRequirement": "10th",
+    "course": "Any",
+    "category": "BC",
+    "description": "Financial assistance for Backward Class students enrolled in recognized institutions.",
+    "documents": [
+      "Aadhaar",
+      "BC Certificate",
+      "Income Certificate",
+      "Bonafide Certificate"
+    ]
+  },
+  {
+    "id": 78,
+    "name": "Consolidated Stipend Scheme for SC Students",
+    "state": "Haryana",
+    "incomeLimit": 250000,
+    "educationalRequirement": "10th",
+    "course": "Any",
+    "category": "SC",
+    "description": "Maintenance allowance and stipend for SC students pursuing higher education.",
+    "documents": ["SC Certificate", "Income Certificate", "Admission Letter"]
+  },
+  {
+    "id": 79,
+    "name": "Consolidated Stipend and Free Books Scheme",
+    "state": "Haryana",
+    "incomeLimit": 250000,
+    "educationalRequirement": "1st",
+    "course": "School",
+    "category": "SC",
+    "description": "Provides free books and educational assistance to eligible SC students.",
+    "documents": ["School Certificate", "SC Certificate", "Income Certificate"]
+  },
+  {
+    "id": 80,
+    "name": "State Merit Scholarship to UG/PG Students",
+    "state": "Haryana",
+    "incomeLimit": null,
+    "educationalRequirement": "12th",
+    "course": "Undergraduate/Postgraduate",
+    "category": "Merit",
+    "description": "Scholarship for meritorious undergraduate and postgraduate students studying in Haryana.",
+    "documents": ["12th Marksheet", "Admission Letter", "Aadhaar"]
+  },
+  {
+    "id": 81,
+    "name": "Haryana State Meritorious Incentive Scheme (HBSE)",
+    "state": "Haryana",
+    "incomeLimit": null,
+    "educationalRequirement": "12th",
+    "course": "Any",
+    "category": "Merit",
+    "description": "Cash incentive for students securing top ranks in the Haryana Board examinations.",
+    "documents": ["HBSE Marksheet", "Bank Passbook", "Aadhaar"]
+  },
+  {
+    "id": 82,
+    "name": "Haryana State Meritorious Incentive Scheme (CBSE)",
+    "state": "Haryana",
+    "incomeLimit": null,
+    "educationalRequirement": "12th",
+    "course": "Any",
+    "category": "Merit",
+    "description": "Merit incentive for Haryana domicile students passing Class 12 under CBSE.",
+    "documents": ["CBSE Marksheet", "Aadhaar", "Bank Passbook"]
+  },
+  {
+    "id": 83,
+    "name": "Dr. Ambedkar Medhavi Chhattar Yojana",
+    "state": "Haryana",
+    "incomeLimit": 400000,
+    "educationalRequirement": "10th",
+    "course": "Any",
+    "category": "SC/BC",
+    "description": "Merit scholarship for SC and BC students securing high marks in board examinations.",
+    "documents": ["Community Certificate", "Income Certificate", "Marksheet"]
+  },
+  {
+    "id": 84,
+    "name": "Dr. Ambedkar Pre-Matric Scholarship for DNT Students",
+    "state": "Haryana",
+    "incomeLimit": 250000,
+    "educationalRequirement": "1st",
+    "course": "School",
+    "category": "DNT",
+    "description": "Scholarship for Denotified and Nomadic Tribe students studying in schools.",
+    "documents": ["DNT Certificate", "Income Certificate", "School Certificate"]
+  },
+  {
+    "id": 85,
+    "name": "Dr. Ambedkar Post-Matric Scholarship for DNT Students",
+    "state": "Haryana",
+    "incomeLimit": 250000,
+    "educationalRequirement": "10th",
+    "course": "Any",
+    "category": "DNT",
+    "description": "Financial assistance for DNT students pursuing higher education.",
+    "documents": ["DNT Certificate", "Income Certificate", "Admission Letter"]
+  },
+  {
+    "id": 86,
+    "name": "Financial Assistance for Higher Competitive Entrance Examinations",
+    "state": "Haryana",
+    "incomeLimit": 350000,
+    "educationalRequirement": "Graduation",
+    "course": "Competitive Exams",
+    "category": "SC/BC",
+    "description": "Financial support for coaching and preparation for competitive examinations.",
+    "documents": [
+      "Community Certificate",
+      "Income Certificate",
+      "Coaching Admission Proof"
+    ]
+  },
+  {
+    "id": 87,
+    "name": "Babu Jagjivan Ram Chhatravas Yojana",
+    "state": "Haryana",
+    "incomeLimit": 250000,
+    "educationalRequirement": "10th",
+    "course": "Any",
+    "category": "SC",
+    "description": "Hostel assistance scheme for Scheduled Caste students.",
+    "documents": ["SC Certificate", "Hostel Certificate", "Income Certificate"]
+  },
+  {
+    "id": 88,
+    "name": "Hostel Scheme for OBC Boys and Girls",
+    "state": "Haryana",
+    "incomeLimit": 250000,
+    "educationalRequirement": "10th",
+    "course": "Any",
+    "category": "OBC",
+    "description": "Hostel accommodation assistance for OBC students pursuing higher education.",
+    "documents": [
+      "OBC Certificate",
+      "Income Certificate",
+      "Hostel Admission Letter"
+    ]
+  },
+  {
+    "id": 89,
+    "name": "Kalpana Chawla Chhatravratti Yojana",
+    "state": "Haryana",
+    "incomeLimit": null,
+    "educationalRequirement": "12th",
+    "course": "Engineering",
+    "category": "Girls",
+    "description": "Scholarship for meritorious girl students admitted to engineering and technical courses.",
+    "documents": ["12th Marksheet", "Admission Letter", "Aadhaar"]
+  },
+  {
+    "id": 90,
+    "name": "HSCST Fellowship Programme",
+    "state": "Haryana",
+    "incomeLimit": null,
+    "educationalRequirement": "Postgraduate",
+    "course": "Research",
+    "category": "Any",
+    "description": "Research fellowship for postgraduate students pursuing PhD in science and technology disciplines.",
+    "documents": [
+      "Postgraduate Degree",
+      "Research Proposal",
+      "Admission Letter",
+      "Aadhaar"
+    ]
+  },
+  {
+    "id": 91,
+    "name": "Post Matric Scholarship (RTF)",
+    "state": "Andhra Pradesh",
+    "incomeLimit": 250000,
+    "educationalRequirement": "10th",
+    "course": "Any",
+    "category": "SC/ST/BC/EBC/Kapu/Minority",
+    "description": "Full reimbursement of tuition fees for eligible students pursuing higher education.",
+    "documents": [
+      "Aadhaar",
+      "Income Certificate",
+      "Community Certificate",
+      "Admission Letter"
+    ]
+  },
+  {
+    "id": 92,
+    "name": "Post Matric Scholarship(MTF)",
+    "state": "Andhra Pradesh",
+    "incomeLimit": 250000,
+    "educationalRequirement": "10th",
+    "course": "Any",
+    "category": "SC/ST/BC/EBC/Kapu/Minority",
+    "description": "Maintenance allowance for food and hostel expenses for eligible students.",
+    "documents": [
+      "Aadhaar",
+      "Income Certificate",
+      "Community Certificate",
+      "College Bonafide Certificate"
+    ]
+  },
+  {
+    "id": 93,
+    "name": "Post Matric Scholarship for SC Students",
+    "state": "Andhra Pradesh",
+    "incomeLimit": 250000,
+    "educationalRequirement": "10th",
+    "course": "Any",
+    "category": "SC",
+    "description": "Post-matric scholarship covering tuition fee reimbursement and maintenance allowance.",
+    "documents": [
+      "SC Certificate",
+      "Income Certificate",
+      "Aadhaar",
+      "Admission Letter"
+    ]
+  },
+  {
+    "id": 94,
+    "name": "Post Matric Scholarship for ST Students",
+    "state": "Andhra Pradesh",
+    "incomeLimit": 250000,
+    "educationalRequirement": "10th",
+    "course": "Any",
+    "category": "ST",
+    "description": "Scholarship for Scheduled Tribe students pursuing higher education.",
+    "documents": [
+      "ST Certificate",
+      "Income Certificate",
+      "Aadhaar",
+      "Admission Letter"
+    ]
+  },
+  {
+    "id": 95,
+    "name": "Post Matric Scholarship for BC Students",
+    "state": "Andhra Pradesh",
+    "incomeLimit": 200000,
+    "educationalRequirement": "10th",
+    "course": "Any",
+    "category": "BC",
+    "description": "Financial assistance for Backward Class students enrolled in recognized institutions.",
+    "documents": [
+      "BC Certificate",
+      "Income Certificate",
+      "Aadhaar",
+      "Bonafide Certificate"
+    ]
+  },
+  {
+    "id": 96,
+    "name": "Post Matric Scholarship for Minority Students",
+    "state": "Andhra Pradesh",
+    "incomeLimit": 250000,
+    "educationalRequirement": "10th",
+    "course": "Any",
+    "category": "Minority",
+    "description": "Scholarship for minority students pursuing post-matric education.",
+    "documents": [
+      "Minority Certificate",
+      "Income Certificate",
+      "Aadhaar",
+      "Admission Letter"
+    ]
+  },
+  {
+    "id": 97,
+    "name": "Pre Matric Scholarship for Minority Students",
+    "state": "Andhra Pradesh",
+    "incomeLimit": 100000,
+    "educationalRequirement": "1st",
+    "course": "School",
+    "category": "Minority",
+    "description": "Scholarship for minority students studying from Class 1 to 10.",
+    "documents": [
+      "School Certificate",
+      "Income Certificate",
+      "Minority Certificate"
+    ]
+  },
+  {
+    "id": 98,
+    "name": "NTR Vidyonnathi Scheme",
+    "state": "Andhra Pradesh",
+    "incomeLimit": 800000,
+    "educationalRequirement": "Graduation",
+    "course": "Competitive Exams",
+    "category": "SC/ST/BC/EBC/Minority",
+    "description": "Free coaching assistance for UPSC, SSC, Banking and other competitive examinations.",
+    "documents": [
+      "Community Certificate",
+      "Income Certificate",
+      "Graduation Certificate"
+    ]
+  },
+  {
+    "id": 99,
+    "name": "Ambedkar Overseas Vidya Nidhi",
+    "state": "Andhra Pradesh",
+    "incomeLimit": 800000,
+    "educationalRequirement": "Graduation",
+    "course": "Postgraduate",
+    "category": "SC/ST/BC/EBC/Minority",
+    "description": "Financial assistance for eligible students pursuing higher education abroad.",
+    "documents": [
+      "Passport",
+      "University Admission Letter",
+      "Income Certificate",
+      "Community Certificate"
+    ]
+  },
+  {
+    "id": 100,
+    "name": "Post Matric Scholarship for Kapu Students",
+    "state": "Andhra Pradesh",
+    "incomeLimit": 250000,
+    "educationalRequirement": "10th",
+    "course": "Any",
+    "category": "Kapu",
+    "description": "Post-matric scholarship for eligible Kapu community students.",
+    "documents": ["Kapu Certificate", "Income Certificate", "Admission Letter"]
+  },
+  {
+    "id": 101,
+    "name": "Sarvepalli Radhakrishnan Vidya Mitra",
+    "state": "Andhra Pradesh",
+    "incomeLimit": 250000,
+    "educationalRequirement": "1st",
+    "course": "School",
+    "category": "SC/ST",
+    "description": "Educational assistance for school students including books, uniforms and learning support.",
+    "documents": ["School Certificate", "Community Certificate", "Aadhaar"]
+  },
+  {
+    "id": 102,
+    "name": "Merit Scholarship for AP State Board Toppers",
+    "state": "Andhra Pradesh",
+    "incomeLimit": null,
+    "educationalRequirement": "12th",
+    "course": "Any",
+    "category": "Merit",
+    "description": "Scholarship for meritorious students securing top ranks in AP Board examinations.",
+    "documents": ["12th Marksheet", "Bank Passbook", "Aadhaar"]
+  },
+  {
+    "id": 103,
+    "name": "Scholarship for Differently Abled Students",
+    "state": "Andhra Pradesh",
+    "incomeLimit": 300000,
+    "educationalRequirement": "10th",
+    "course": "Any",
+    "category": "PwD",
+    "description": "Financial assistance for differently-abled students pursuing higher education.",
+    "documents": [
+      "Disability Certificate",
+      "Income Certificate",
+      "Admission Letter"
+    ]
+  },
+  {
+    "id": 104,
+    "name": "Residential Hostel Scholarship",
+    "state": "Andhra Pradesh",
+    "incomeLimit": 250000,
+    "educationalRequirement": "10th",
+    "course": "Any",
+    "category": "SC/ST/BC",
+    "description": "Maintenance support for students residing in government-approved hostels.",
+    "documents": [
+      "Hostel Certificate",
+      "Community Certificate",
+      "Income Certificate"
+    ]
+  },
+  {
+    "id": 105,
+    "name": "Andhra Pradesh Merit-cum-Means Scholarship",
+    "state": "Andhra Pradesh",
+    "incomeLimit": 250000,
+    "educationalRequirement": "12th",
+    "course": "Professional",
+    "category": "Any",
+    "description": "Merit-cum-means financial assistance for students enrolled in professional degree courses.",
+    "documents": [
+      "12th Marksheet",
+      "Income Certificate",
+      "Admission Letter",
+      "Aadhaar"
+    ]
+  },
+  {
+    "id": 106,
+    "name": "UP Pre-Matric Scholarship",
+    "state": "Uttar Pradesh",
+    "incomeLimit": 100000,
+    "educationalRequirement": "8th",
+    "course": "School",
+    "category": "Any",
+    "description": "Scholarship for students studying in Classes 9 and 10 belonging to economically weaker families.",
+    "documents": [
+      "Aadhaar",
+      "Income Certificate",
+      "School Certificate",
+      "Bank Passbook"
+    ]
+  },
+  {
+    "id": 107,
+    "name": "UP Post-Matric Scholarship (Intermediate)",
+    "state": "Uttar Pradesh",
+    "incomeLimit": 200000,
+    "educationalRequirement": "10th",
+    "course": "11th & 12th",
+    "category": "Any",
+    "description": "Financial assistance for students pursuing Intermediate education.",
+    "documents": [
+      "10th Marksheet",
+      "Income Certificate",
+      "Aadhaar",
+      "Admission Letter"
+    ]
+  },
+  {
+    "id": 108,
+    "name": "UP Post-Matric Scholarship (Other Than Intermediate)",
+    "state": "Uttar Pradesh",
+    "incomeLimit": 200000,
+    "educationalRequirement": "12th",
+    "course": "UG/PG/Diploma",
+    "category": "Any",
+    "description": "Scholarship for students enrolled in undergraduate, postgraduate and diploma courses.",
+    "documents": [
+      "12th Marksheet",
+      "Income Certificate",
+      "Admission Letter",
+      "Aadhaar"
+    ]
+  },
+  {
+    "id": 109,
+    "name": "Post-Matric Scholarship for SC Students",
+    "state": "Uttar Pradesh",
+    "incomeLimit": 250000,
+    "educationalRequirement": "10th",
+    "course": "Any",
+    "category": "SC",
+    "description": "Financial assistance for Scheduled Caste students pursuing higher education.",
+    "documents": [
+      "SC Certificate",
+      "Income Certificate",
+      "Aadhaar",
+      "Admission Letter"
+    ]
+  },
+  {
+    "id": 110,
+    "name": "Post-Matric Scholarship for ST Students",
+    "state": "Uttar Pradesh",
+    "incomeLimit": 250000,
+    "educationalRequirement": "10th",
+    "course": "Any",
+    "category": "ST",
+    "description": "Scholarship for Scheduled Tribe students studying in recognized institutions.",
+    "documents": [
+      "ST Certificate",
+      "Income Certificate",
+      "Admission Letter",
+      "Aadhaar"
+    ]
+  },
+  {
+    "id": 111,
+    "name": "Post-Matric Scholarship for OBC Students",
+    "state": "Uttar Pradesh",
+    "incomeLimit": 200000,
+    "educationalRequirement": "10th",
+    "course": "Any",
+    "category": "OBC",
+    "description": "Scholarship for Other Backward Class students pursuing post-matric education.",
+    "documents": [
+      "OBC Certificate",
+      "Income Certificate",
+      "Aadhaar",
+      "Bonafide Certificate"
+    ]
+  },
+  {
+    "id": 112,
+    "name": "Post-Matric Scholarship for General Category",
+    "state": "Uttar Pradesh",
+    "incomeLimit": 200000,
+    "educationalRequirement": "10th",
+    "course": "Any",
+    "category": "General",
+    "description": "Scholarship for economically weaker students belonging to the General category.",
+    "documents": [
+      "Income Certificate",
+      "Aadhaar",
+      "Admission Letter",
+      "Bank Passbook"
+    ]
+  },
+  {
+    "id": 113,
+    "name": "Pre-Matric Scholarship for Minority Students",
+    "state": "Uttar Pradesh",
+    "incomeLimit": 100000,
+    "educationalRequirement": "1st",
+    "course": "School",
+    "category": "Minority",
+    "description": "Scholarship for minority students studying from Class 1 to 10.",
+    "documents": [
+      "Minority Certificate",
+      "Income Certificate",
+      "School Certificate",
+      "Aadhaar"
+    ]
+  },
+  {
+    "id": 114,
+    "name": "Post-Matric Scholarship for Minority Students",
+    "state": "Uttar Pradesh",
+    "incomeLimit": 200000,
+    "educationalRequirement": "10th",
+    "course": "Any",
+    "category": "Minority",
+    "description": "Financial assistance for minority students pursuing higher education.",
+    "documents": [
+      "Minority Certificate",
+      "Income Certificate",
+      "Admission Letter",
+      "Aadhaar"
+    ]
+  },
+  {
+    "id": 115,
+    "name": "Merit-cum-Means Scholarship",
+    "state": "Uttar Pradesh",
+    "incomeLimit": 250000,
+    "educationalRequirement": "12th",
+    "course": "Professional",
+    "category": "Minority",
+    "description": "Scholarship for minority students pursuing professional and technical courses.",
+    "documents": [
+      "Minority Certificate",
+      "Income Certificate",
+      "Admission Letter",
+      "Aadhaar"
+    ]
+  },
+  {
+    "id": 116,
+    "name": "Fee Reimbursement Scheme",
+    "state": "Uttar Pradesh",
+    "incomeLimit": 250000,
+    "educationalRequirement": "10th",
+    "course": "Professional",
+    "category": "SC/ST/OBC/General",
+    "description": "Reimbursement of tuition fees for eligible students studying in approved institutions.",
+    "documents": [
+      "Fee Receipt",
+      "Income Certificate",
+      "Admission Letter",
+      "Aadhaar"
+    ]
+  },
+  {
+    "id": 117,
+    "name": "Scholarship for Students with Disabilities",
+    "state": "Uttar Pradesh",
+    "incomeLimit": 300000,
+    "educationalRequirement": "10th",
+    "course": "Any",
+    "category": "PwD",
+    "description": "Financial assistance for students with benchmark disabilities.",
+    "documents": [
+      "Disability Certificate",
+      "Income Certificate",
+      "Admission Letter",
+      "Aadhaar"
+    ]
+  },
+  {
+    "id": 118,
+    "name": "Dashmottar Scholarship",
+    "state": "Uttar Pradesh",
+    "incomeLimit": 200000,
+    "educationalRequirement": "12th",
+    "course": "UG/PG",
+    "category": "Any",
+    "description": "Scholarship for students pursuing graduation and post-graduation after Intermediate.",
+    "documents": [
+      "12th Marksheet",
+      "Income Certificate",
+      "Admission Letter",
+      "Bank Passbook"
+    ]
+  },
+  {
+    "id": 119,
+    "name": "Chief Minister Merit Scholarship",
+    "state": "Uttar Pradesh",
+    "incomeLimit": null,
+    "educationalRequirement": "12th",
+    "course": "Any",
+    "category": "Merit",
+    "description": "Merit scholarship for students securing outstanding marks in board examinations.",
+    "documents": ["Marksheet", "Admission Letter", "Aadhaar", "Bank Passbook"]
+  },
+  {
+    "id": 120,
+    "name": "Abhyudaya Coaching Scholarship",
+    "state": "Uttar Pradesh",
+    "incomeLimit": null,
+    "educationalRequirement": "Graduation",
+    "course": "Competitive Exams",
+    "category": "Any",
+    "description": "Government-supported coaching assistance for UPSC, SSC, NEET, JEE and other competitive examinations.",
+    "documents": [
+      "Graduation Certificate",
+      "Identity Proof",
+      "Aadhaar",
+      "Domicile Certificate"
+    ]
+  },
+  {
+    "id": 121,
+    "name": "Government of India Post Matric Scholarship (SC)",
+    "state": "Maharashtra",
+    "incomeLimit": 250000,
+    "educationalRequirement": "10th",
+    "course": "Any",
+    "category": "SC",
+    "description": "Post Matric Scholarship for Scheduled Caste students pursuing higher education.",
+    "documents": [
+      "Aadhaar",
+      "SC Certificate",
+      "Income Certificate",
+      "Admission Letter"
+    ]
+  },
+  {
+    "id": 122,
+    "name": "Tuition Fees and Examination Fees for SC Students",
+    "state": "Maharashtra",
+    "incomeLimit": 800000,
+    "educationalRequirement": "10th",
+    "course": "Professional",
+    "category": "SC",
+    "description": "Reimbursement of tuition and examination fees for eligible SC students.",
+    "documents": [
+      "SC Certificate",
+      "Income Certificate",
+      "Fee Receipt",
+      "Admission Letter"
+    ]
+  },
+  {
+    "id": 123,
+    "name": "Post Matric Scholarship for ST Students",
+    "state": "Maharashtra",
+    "incomeLimit": 250000,
+    "educationalRequirement": "10th",
+    "course": "Any",
+    "category": "ST",
+    "description": "Scholarship for Scheduled Tribe students enrolled in post-matric education.",
+    "documents": [
+      "ST Certificate",
+      "Income Certificate",
+      "Aadhaar",
+      "Admission Letter"
+    ]
+  },
+  {
+    "id": 124,
+    "name": "Post Matric Scholarship for OBC Students",
+    "state": "Maharashtra",
+    "incomeLimit": 150000,
+    "educationalRequirement": "10th",
+    "course": "Any",
+    "category": "OBC",
+    "description": "Scholarship for OBC students pursuing higher education in recognized institutions.",
+    "documents": [
+      "OBC Certificate",
+      "Income Certificate",
+      "Aadhaar",
+      "Bonafide Certificate"
+    ]
+  },
+  {
+    "id": 125,
+    "name": "Post Matric Scholarship for SBC Students",
+    "state": "Maharashtra",
+    "incomeLimit": 150000,
+    "educationalRequirement": "10th",
+    "course": "Any",
+    "category": "SBC",
+    "description": "Financial assistance for Special Backward Class students pursuing post-matric education.",
+    "documents": ["SBC Certificate", "Income Certificate", "Admission Letter"]
+  },
+  {
+    "id": 126,
+    "name": "Post Matric Scholarship for VJNT Students",
+    "state": "Maharashtra",
+    "incomeLimit": 150000,
+    "educationalRequirement": "10th",
+    "course": "Any",
+    "category": "VJNT",
+    "description": "Scholarship for Vimukta Jati and Nomadic Tribe students.",
+    "documents": ["VJNT Certificate", "Income Certificate", "Aadhaar"]
+  },
+  {
+    "id": 127,
+    "name": "Rajarshi Chhatrapati Shahu Maharaj Merit Scholarship",
+    "state": "Maharashtra",
+    "incomeLimit": 800000,
+    "educationalRequirement": "12th",
+    "course": "Degree",
+    "category": "Merit",
+    "description": "Merit scholarship for students securing high marks and pursuing undergraduate education.",
+    "documents": ["12th Marksheet", "Income Certificate", "Admission Letter"]
+  },
+  {
+    "id": 128,
+    "name": "Eklavya Scholarship",
+    "state": "Maharashtra",
+    "incomeLimit": 75000,
+    "educationalRequirement": "Graduation",
+    "course": "Postgraduate",
+    "category": "Any",
+    "description": "Scholarship for meritorious postgraduate students studying in Maharashtra.",
+    "documents": [
+      "Graduation Marksheet",
+      "Income Certificate",
+      "Admission Letter"
+    ]
+  },
+  {
+    "id": 129,
+    "name": "State Government Open Merit Scholarship",
+    "state": "Maharashtra",
+    "incomeLimit": null,
+    "educationalRequirement": "12th",
+    "course": "Degree",
+    "category": "Merit",
+    "description": "Scholarship awarded to students with outstanding academic performance.",
+    "documents": ["12th Marksheet", "Admission Letter", "Bank Passbook"]
+  },
+  {
+    "id": 130,
+    "name": "Minority Scholarship",
+    "state": "Maharashtra",
+    "incomeLimit": 800000,
+    "educationalRequirement": "10th",
+    "course": "Any",
+    "category": "Minority",
+    "description": "Scholarship for students belonging to notified minority communities.",
+    "documents": ["Minority Certificate", "Income Certificate", "Aadhaar"]
+  },
+  {
+    "id": 131,
+    "name": "Dr. Punjabrao Deshmukh Hostel Maintenance Allowance",
+    "state": "Maharashtra",
+    "incomeLimit": 800000,
+    "educationalRequirement": "12th",
+    "course": "Professional",
+    "category": "Any",
+    "description": "Hostel maintenance allowance for students pursuing professional courses away from home.",
+    "documents": [
+      "Hostel Certificate",
+      "Income Certificate",
+      "Admission Letter"
+    ]
+  },
+  {
+    "id": 132,
+    "name": "Tuition Fee and Exam Fee Reimbursement for OBC Students",
+    "state": "Maharashtra",
+    "incomeLimit": 800000,
+    "educationalRequirement": "10th",
+    "course": "Professional",
+    "category": "OBC",
+    "description": "Reimbursement of tuition and examination fees for eligible OBC students.",
+    "documents": [
+      "OBC Certificate",
+      "Income Certificate",
+      "Fee Receipt",
+      "Admission Letter"
+    ]
+  },
+  {
+    "id": 133,
+    "name": "Education Fee & Maintenance Allowance for Disabled Students",
+    "state": "Maharashtra",
+    "incomeLimit": 800000,
+    "educationalRequirement": "10th",
+    "course": "Any",
+    "category": "PwD",
+    "description": "Financial assistance for students with benchmark disabilities pursuing higher education.",
+    "documents": [
+      "Disability Certificate",
+      "Income Certificate",
+      "Admission Letter"
+    ]
+  },
+  {
+    "id": 134,
+    "name": "Government Research Adhichatra Scholarship",
+    "state": "Maharashtra",
+    "incomeLimit": null,
+    "educationalRequirement": "Postgraduate",
+    "course": "Research",
+    "category": "Any",
+    "description": "Research scholarship for postgraduate students pursuing doctoral studies.",
+    "documents": [
+      "Postgraduate Degree",
+      "Research Proposal",
+      "Admission Letter"
+    ]
+  },
+  {
+    "id": 135,
+    "name": "Rajarshi Chhatrapati Shahu Maharaj Shikshan Shulkh Shishyavrutti Yojna (DTE)",
+    "state": "Maharashtra",
+    "incomeLimit": 800000,
+    "educationalRequirement": "12th",
+    "course": "Engineering",
+    "category": "Any",
+    "description": "Financial assistance for students admitted to approved technical and engineering institutions.",
+    "documents": [
+      "Admission Letter",
+      "Income Certificate",
+      "12th Marksheet",
+      "Aadhaar"
+    ]
+  },
+  {
+    "id": 136,
+    "name": "Mukhyamantri Yuva Swavalamban Yojana (MYSY)",
+    "state": "Gujarat",
+    "incomeLimit": 600000,
+    "educationalRequirement": "12th",
+    "course": "Professional",
+    "category": "Any",
+    "description": "Merit-cum-means scholarship for students pursuing engineering, medical, pharmacy, diploma and degree courses.",
+    "documents": [
+      "Aadhaar",
+      "Income Certificate",
+      "12th Marksheet",
+      "Admission Letter",
+      "Domicile Certificate"
+    ]
+  },
+  {
+    "id": 137,
+    "name": "Post Matric Scholarship for SC Students",
+    "state": "Gujarat",
+    "incomeLimit": 250000,
+    "educationalRequirement": "10th",
+    "course": "Any",
+    "category": "SC",
+    "description": "Scholarship for Scheduled Caste students pursuing post-matric education.",
+    "documents": [
+      "SC Certificate",
+      "Income Certificate",
+      "Admission Letter",
+      "Aadhaar"
+    ]
+  },
+  {
+    "id": 138,
+    "name": "Post Matric Scholarship for ST Students",
+    "state": "Gujarat",
+    "incomeLimit": 250000,
+    "educationalRequirement": "10th",
+    "course": "Any",
+    "category": "ST",
+    "description": "Financial assistance for Scheduled Tribe students studying in recognized institutions.",
+    "documents": [
+      "ST Certificate",
+      "Income Certificate",
+      "Admission Letter",
+      "Aadhaar"
+    ]
+  },
+  {
+    "id": 139,
+    "name": "Post Matric Scholarship for SEBC Students",
+    "state": "Gujarat",
+    "incomeLimit": 250000,
+    "educationalRequirement": "10th",
+    "course": "Any",
+    "category": "SEBC",
+    "description": "Scholarship for Socially and Educationally Backward Class students pursuing higher education.",
+    "documents": [
+      "SEBC Certificate",
+      "Income Certificate",
+      "Admission Letter",
+      "Aadhaar"
+    ]
+  },
+  {
+    "id": 140,
+    "name": "Food Bill Assistance Scheme",
+    "state": "Gujarat",
+    "incomeLimit": 250000,
+    "educationalRequirement": "10th",
+    "course": "Any",
+    "category": "SC/ST",
+    "description": "Financial assistance towards hostel food expenses for eligible students.",
+    "documents": [
+      "Income Certificate",
+      "Hostel Certificate",
+      "Community Certificate",
+      "Aadhaar"
+    ]
+  },
+  {
+    "id": 141,
+    "name": "Higher Education Scheme for ST Students",
+    "state": "Gujarat",
+    "incomeLimit": 250000,
+    "educationalRequirement": "12th",
+    "course": "Professional",
+    "category": "ST",
+    "description": "Scholarship for ST students pursuing engineering, medical and other professional courses.",
+    "documents": ["ST Certificate", "Income Certificate", "Admission Letter"]
+  },
+  {
+    "id": 142,
+    "name": "Chief Minister Scholarship Scheme (CMSS)",
+    "state": "Gujarat",
+    "incomeLimit": 450000,
+    "educationalRequirement": "12th",
+    "course": "Professional",
+    "category": "Merit",
+    "description": "Merit scholarship for students admitted to eligible professional courses.",
+    "documents": [
+      "12th Marksheet",
+      "Income Certificate",
+      "Admission Letter",
+      "Aadhaar"
+    ]
+  },
+  {
+    "id": 143,
+    "name": "Scholarship for Children of Building and Construction Workers",
+    "state": "Gujarat",
+    "incomeLimit": null,
+    "educationalRequirement": "1st",
+    "course": "Any",
+    "category": "Children of Registered Workers",
+    "description": "Educational assistance for children of registered construction workers.",
+    "documents": ["Labour Card", "Student Certificate", "Aadhaar"]
+  },
+  {
+    "id": 144,
+    "name": "Scholarship for Disabled Students",
+    "state": "Gujarat",
+    "incomeLimit": 300000,
+    "educationalRequirement": "10th",
+    "course": "Any",
+    "category": "PwD",
+    "description": "Financial assistance for students with benchmark disabilities.",
+    "documents": [
+      "Disability Certificate",
+      "Income Certificate",
+      "Admission Letter",
+      "Aadhaar"
+    ]
+  },
+  {
+    "id": 145,
+    "name": "Minority Community Scholarship",
+    "state": "Gujarat",
+    "incomeLimit": 250000,
+    "educationalRequirement": "10th",
+    "course": "Any",
+    "category": "Minority",
+    "description": "Scholarship for students belonging to notified minority communities.",
+    "documents": [
+      "Minority Certificate",
+      "Income Certificate",
+      "Admission Letter",
+      "Aadhaar"
+    ]
+  },
+  {
+    "id": 146,
+    "name": "Instrument Assistance Scheme",
+    "state": "Gujarat",
+    "incomeLimit": 600000,
+    "educationalRequirement": "12th",
+    "course": "Professional",
+    "category": "Any",
+    "description": "Financial assistance for purchasing books, equipment and study materials under eligible schemes.",
+    "documents": ["Admission Letter", "Income Certificate", "Fee Receipt"]
+  },
+  {
+    "id": 147,
+    "name": "Research Scholarship Scheme",
+    "state": "Gujarat",
+    "incomeLimit": null,
+    "educationalRequirement": "Postgraduate",
+    "course": "Research",
+    "category": "Any",
+    "description": "Scholarship for eligible postgraduate students pursuing research programmes.",
+    "documents": [
+      "Postgraduate Degree",
+      "Research Proposal",
+      "Admission Letter"
+    ]
+  },
+  {
+    "id": 148,
+    "name": "Pre-Matric Scholarship for SC Students",
+    "state": "Gujarat",
+    "incomeLimit": 250000,
+    "educationalRequirement": "1st",
+    "course": "School",
+    "category": "SC",
+    "description": "Scholarship for SC students studying in Classes 1 to 10.",
+    "documents": ["School Certificate", "Income Certificate", "SC Certificate"]
+  },
+  {
+    "id": 149,
+    "name": "Pre-Matric Scholarship for ST Students",
+    "state": "Gujarat",
+    "incomeLimit": 250000,
+    "educationalRequirement": "1st",
+    "course": "School",
+    "category": "ST",
+    "description": "Scholarship for Scheduled Tribe students studying in schools.",
+    "documents": ["School Certificate", "ST Certificate", "Income Certificate"]
+  },
+  {
+    "id": 150,
+    "name": "Digital Gujarat Merit Scholarship",
+    "state": "Gujarat",
+    "incomeLimit": 600000,
+    "educationalRequirement": "12th",
+    "course": "Degree",
+    "category": "Merit",
+    "description": "Merit-based financial assistance for students pursuing undergraduate education through the Digital Gujarat portal.",
+    "documents": [
+      "12th Marksheet",
+      "Income Certificate",
+      "Admission Letter",
+      "Bank Passbook"
+    ]
+  },
+  {
+    "id": 151,
+    "name": "Swami Vivekananda Merit-cum-Means Scholarship (SVMCM)",
+    "state": "West Bengal",
+    "incomeLimit": 250000,
+    "educationalRequirement": "10th",
+    "course": "Any",
+    "category": "Merit",
+    "description": "Merit-cum-means scholarship for students pursuing higher secondary, undergraduate, postgraduate and professional courses.",
+    "documents": [
+      "Aadhaar",
+      "Income Certificate",
+      "Previous Marksheet",
+      "Admission Letter",
+      "Bank Passbook"
+    ]
+  },
+  {
+    "id": 152,
+    "name": "Nabanna Scholarship",
+    "state": "West Bengal",
+    "incomeLimit": 120000,
+    "educationalRequirement": "10th",
+    "course": "Any",
+    "category": "Any",
+    "description": "Financial assistance provided through the Chief Minister's Relief Fund for deserving students.",
+    "documents": [
+      "Income Certificate",
+      "Previous Marksheet",
+      "Admission Letter",
+      "Domicile Certificate"
+    ]
+  },
+  {
+    "id": 153,
+    "name": "Aikyashree Pre-Matric Scholarship",
+    "state": "West Bengal",
+    "incomeLimit": 200000,
+    "educationalRequirement": "1st",
+    "course": "School",
+    "category": "Minority",
+    "description": "Scholarship for minority students studying from Class 1 to Class 10.",
+    "documents": [
+      "Minority Certificate",
+      "Income Certificate",
+      "School Certificate",
+      "Aadhaar"
+    ]
+  },
+  {
+    "id": 154,
+    "name": "Aikyashree Post-Matric Scholarship",
+    "state": "West Bengal",
+    "incomeLimit": 200000,
+    "educationalRequirement": "10th",
+    "course": "Any",
+    "category": "Minority",
+    "description": "Scholarship for minority students pursuing post-matric education.",
+    "documents": [
+      "Minority Certificate",
+      "Income Certificate",
+      "Admission Letter",
+      "Aadhaar"
+    ]
+  },
+  {
+    "id": 155,
+    "name": "Aikyashree Merit-cum-Means Scholarship",
+    "state": "West Bengal",
+    "incomeLimit": 250000,
+    "educationalRequirement": "12th",
+    "course": "Professional",
+    "category": "Minority",
+    "description": "Merit scholarship for minority students pursuing technical and professional courses.",
+    "documents": [
+      "Minority Certificate",
+      "Income Certificate",
+      "12th Marksheet",
+      "Admission Letter"
+    ]
+  },
+  {
+    "id": 156,
+    "name": "OASIS Pre-Matric Scholarship (SC)",
+    "state": "West Bengal",
+    "incomeLimit": 250000,
+    "educationalRequirement": "1st",
+    "course": "School",
+    "category": "SC",
+    "description": "Scholarship for Scheduled Caste students studying in Classes 9 and 10.",
+    "documents": [
+      "SC Certificate",
+      "Income Certificate",
+      "School Certificate",
+      "Aadhaar"
+    ]
+  },
+  {
+    "id": 157,
+    "name": "OASIS Post-Matric Scholarship (SC)",
+    "state": "West Bengal",
+    "incomeLimit": 250000,
+    "educationalRequirement": "10th",
+    "course": "Any",
+    "category": "SC",
+    "description": "Financial assistance for SC students pursuing post-matric education.",
+    "documents": [
+      "SC Certificate",
+      "Income Certificate",
+      "Admission Letter",
+      "Aadhaar"
+    ]
+  },
+  {
+    "id": 158,
+    "name": "OASIS Post-Matric Scholarship (ST)",
+    "state": "West Bengal",
+    "incomeLimit": 250000,
+    "educationalRequirement": "10th",
+    "course": "Any",
+    "category": "ST",
+    "description": "Scholarship for Scheduled Tribe students enrolled in higher education.",
+    "documents": [
+      "ST Certificate",
+      "Income Certificate",
+      "Admission Letter",
+      "Aadhaar"
+    ]
+  },
+  {
+    "id": 159,
+    "name": "OASIS Post-Matric Scholarship (OBC)",
+    "state": "West Bengal",
+    "incomeLimit": 100000,
+    "educationalRequirement": "10th",
+    "course": "Any",
+    "category": "OBC",
+    "description": "Financial assistance for OBC students pursuing post-matric education.",
+    "documents": [
+      "OBC Certificate",
+      "Income Certificate",
+      "Admission Letter",
+      "Aadhaar"
+    ]
+  },
+  {
+    "id": 160,
+    "name": "Kanyashree Prakalpa",
+    "state": "West Bengal",
+    "incomeLimit": 120000,
+    "educationalRequirement": "8th",
+    "course": "School",
+    "category": "Girls",
+    "description": "Financial incentive scheme encouraging girls to continue education and delay early marriage.",
+    "documents": [
+      "Birth Certificate",
+      "Income Certificate",
+      "School Certificate",
+      "Aadhaar"
+    ]
+  },
+  {
+    "id": 161,
+    "name": "Sikshashree Scholarship",
+    "state": "West Bengal",
+    "incomeLimit": 250000,
+    "educationalRequirement": "5th",
+    "course": "School",
+    "category": "SC/ST",
+    "description": "Scholarship for SC and ST students studying in Classes 5 to 8.",
+    "documents": [
+      "Community Certificate",
+      "Income Certificate",
+      "School Certificate"
+    ]
+  },
+  {
+    "id": 162,
+    "name": "Talent Support Stipend Programme",
+    "state": "West Bengal",
+    "incomeLimit": 200000,
+    "educationalRequirement": "10th",
+    "course": "Any",
+    "category": "Minority",
+    "description": "Monthly stipend for talented minority students pursuing higher education.",
+    "documents": [
+      "Minority Certificate",
+      "Income Certificate",
+      "Previous Marksheet",
+      "Aadhaar"
+    ]
+  },
+  {
+    "id": 163,
+    "name": "Hindi Scholarship Scheme",
+    "state": "West Bengal",
+    "incomeLimit": null,
+    "educationalRequirement": "12th",
+    "course": "Hindi",
+    "category": "Any",
+    "description": "Scholarship for students pursuing higher studies in Hindi language.",
+    "documents": [
+      "Admission Letter",
+      "Previous Marksheet",
+      "College Certificate"
+    ]
+  },
+  {
+    "id": 164,
+    "name": "Jagadis Bose National Science Talent Search (JBNSTS) Senior Scholarship",
+    "state": "West Bengal",
+    "incomeLimit": null,
+    "educationalRequirement": "12th",
+    "course": "Science",
+    "category": "Merit",
+    "description": "Scholarship for meritorious students pursuing undergraduate studies in science, engineering and medicine.",
+    "documents": ["12th Marksheet", "Admission Letter", "Identity Proof"]
+  },
+  {
+    "id": 165,
+    "name": "Bigyani Kanya Medha Britti",
+    "state": "West Bengal",
+    "incomeLimit": null,
+    "educationalRequirement": "12th",
+    "course": "Science",
+    "category": "Girls",
+    "description": "Scholarship for meritorious girl students pursuing undergraduate science courses in West Bengal.",
+    "documents": [
+      "12th Marksheet",
+      "Admission Letter",
+      "Identity Proof",
+      "Bank Passbook"
+    ]
+  },
+  {
+    "id": 166,
+    "name": "Vidyadhan Scholarship Program",
+    "state": "All",
+    "incomeLimit": 250000,
+    "educationalRequirement": "10th",
+    "course": "Any",
+    "category": "Any",
+    "description": "Scholarship for meritorious students from economically disadvantaged families from Class 11 through graduation.",
+    "documents": [
+      "10th Marksheet",
+      "Income Certificate",
+      "Aadhaar",
+      "Bank Passbook"
+    ]
+  },
+  {
+    "id": 167,
+    "name": "Bharti Airtel Scholarship Program",
+    "state": "All",
+    "incomeLimit": 850000,
+    "educationalRequirement": "12th",
+    "course": "Engineering",
+    "category": "Any",
+    "description": "Scholarship covering tuition and academic expenses for students admitted to eligible engineering institutions.",
+    "documents": [
+      "12th Marksheet",
+      "Income Certificate",
+      "Admission Letter",
+      "Aadhaar"
+    ]
+  },
+  {
+    "id": 168,
+    "name": "Nikon Scholarship Program",
+    "state": "All",
+    "incomeLimit": 600000,
+    "educationalRequirement": "10th",
+    "course": "Photography",
+    "category": "Any",
+    "description": "Scholarship for students pursuing photography-related vocational courses.",
+    "documents": ["10th Marksheet", "Income Certificate", "Admission Proof"]
+  },
+  {
+    "id": 169,
+    "name": "Legrand Empowering Scholarship",
+    "state": "All",
+    "incomeLimit": 500000,
+    "educationalRequirement": "12th",
+    "course": "Engineering",
+    "category": "Girls/PwD",
+    "description": "Scholarship for girl students and students with disabilities pursuing engineering and architecture.",
+    "documents": [
+      "Income Certificate",
+      "Admission Letter",
+      "Category Certificate",
+      "Aadhaar"
+    ]
+  },
+  {
+    "id": 170,
+    "name": "Aga Khan Foundation International Scholarship",
+    "state": "All",
+    "incomeLimit": null,
+    "educationalRequirement": "Graduation",
+    "course": "Postgraduate",
+    "category": "Any",
+    "description": "Need-based scholarship for outstanding students pursuing postgraduate education.",
+    "documents": ["Graduation Marksheet", "Income Proof", "Admission Letter"]
+  },
+  {
+    "id": 171,
+    "name": "Inlaks Shivdasani Foundation Scholarship",
+    "state": "All",
+    "incomeLimit": null,
+    "educationalRequirement": "Graduation",
+    "course": "Postgraduate",
+    "category": "Merit",
+    "description": "Scholarship for exceptional Indian students pursuing postgraduate studies abroad.",
+    "documents": ["Graduation Marksheet", "Admission Letter", "Passport"]
+  },
+  {
+    "id": 172,
+    "name": "JN Tata Endowment Loan Scholarship",
+    "state": "All",
+    "incomeLimit": null,
+    "educationalRequirement": "Graduation",
+    "course": "Postgraduate",
+    "category": "Any",
+    "description": "Loan scholarship for Indian students pursuing higher studies abroad.",
+    "documents": ["Graduation Marksheet", "Admission Letter", "Identity Proof"]
+  },
+  {
+    "id": 173,
+    "name": "Narotam Sekhsaria Scholarship",
+    "state": "All",
+    "incomeLimit": null,
+    "educationalRequirement": "Graduation",
+    "course": "Postgraduate",
+    "category": "Merit",
+    "description": "Merit-based interest-free loan scholarship for postgraduate studies.",
+    "documents": ["Graduation Marksheet", "Admission Letter", "Identity Proof"]
+  },
+  {
+    "id": 174,
+    "name": "IET India Scholarship Award",
+    "state": "All",
+    "incomeLimit": null,
+    "educationalRequirement": "12th",
+    "course": "Engineering",
+    "category": "Merit",
+    "description": "Scholarship and award for outstanding undergraduate engineering students.",
+    "documents": [
+      "Engineering Bonafide Certificate",
+      "Academic Transcript",
+      "Identity Proof"
+    ]
+  },
+  {
+    "id": 175,
+    "name": "Glow and Lovely Foundation Scholarship",
+    "state": "All",
+    "incomeLimit": 600000,
+    "educationalRequirement": "12th",
+    "course": "Any",
+    "category": "Girls",
+    "description": "Scholarship supporting higher education for meritorious girl students.",
+    "documents": ["12th Marksheet", "Income Certificate", "Admission Letter"]
+  },
+  {
+    "id": 176,
+    "name": "L'Oréal India For Young Women in Science Scholarship",
+    "state": "All",
+    "incomeLimit": 600000,
+    "educationalRequirement": "12th",
+    "course": "Science",
+    "category": "Girls",
+    "description": "Scholarship for young women pursuing undergraduate studies in science.",
+    "documents": ["12th Marksheet", "Income Certificate", "Admission Letter"]
+  },
+  {
+    "id": 177,
+    "name": "Keep India Smiling Foundational Scholarship",
+    "state": "All",
+    "incomeLimit": 800000,
+    "educationalRequirement": "12th",
+    "course": "Any",
+    "category": "Any",
+    "description": "Need-based scholarship supporting undergraduate students across India.",
+    "documents": ["Income Certificate", "Admission Letter", "Aadhaar"]
+  },
+  {
+    "id": 178,
+    "name": "DXC Progressing Minds Scholarship",
+    "state": "All",
+    "incomeLimit": 400000,
+    "educationalRequirement": "12th",
+    "course": "STEM",
+    "category": "Girls/PwD",
+    "description": "Scholarship for female students and students with disabilities pursuing STEM courses.",
+    "documents": [
+      "Income Certificate",
+      "Admission Letter",
+      "Category Certificate"
+    ]
+  },
+  {
+    "id": 179,
+    "name": "Cummins Scholarship Program",
+    "state": "All",
+    "incomeLimit": 800000,
+    "educationalRequirement": "12th",
+    "course": "Engineering",
+    "category": "Girls",
+    "description": "Scholarship supporting women pursuing engineering education in India.",
+    "documents": ["12th Marksheet", "Admission Letter", "Income Certificate"]
+  },
+  {
+    "id": 180,
+    "name": "Cadence Scholarship Program",
+    "state": "All",
+    "incomeLimit": 800000,
+    "educationalRequirement": "12th",
+    "course": "Engineering",
+    "category": "Girls",
+    "description": "Scholarship for women pursuing engineering in electronics, computer science, and related disciplines.",
+    "documents": [
+      "12th Marksheet",
+      "Admission Letter",
+      "Income Certificate",
+      "Aadhaar"
+    ]
+  },
+  {
+    "id": 181,
+    "name": "Mohan T. Advani Centennial Scholarship Programme",
+    "state": "All",
+    "incomeLimit": 600000,
+    "educationalRequirement": "12th",
+    "course": "Engineering/Architecture/Diploma",
+    "category": "Any",
+    "description": "Scholarship for meritorious students pursuing engineering, architecture and diploma courses in partner institutions.",
+    "documents": [
+      "12th Marksheet",
+      "Income Certificate",
+      "Admission Letter",
+      "Aadhaar"
+    ]
+  },
+  {
+    "id": 182,
+    "name": "Panasonic Ratti Chhatr Scholarship",
+    "state": "All",
+    "incomeLimit": 800000,
+    "educationalRequirement": "12th",
+    "course": "Engineering",
+    "category": "Any",
+    "description": "Scholarship for first-year B.E./B.Tech students admitted to eligible IITs.",
+    "documents": [
+      "12th Marksheet",
+      "JEE Admission Proof",
+      "Income Certificate",
+      "Aadhaar"
+    ]
+  },
+  {
+    "id": 183,
+    "name": "Buddy4Study India Foundation Scholarship for Engineering Courses",
+    "state": "All",
+    "incomeLimit": null,
+    "educationalRequirement": "12th",
+    "course": "Engineering",
+    "category": "Any",
+    "description": "Merit-cum-means scholarship for first and second-year B.E./B.Tech students across India.",
+    "documents": [
+      "12th Marksheet",
+      "College ID",
+      "Income Certificate",
+      "Admission Letter"
+    ]
+  },
+  {
+    "id": 184,
+    "name": "Dr. Rajendra Prasad Scholarship Program",
+    "state": "All",
+    "incomeLimit": null,
+    "educationalRequirement": "10th",
+    "course": "Any",
+    "category": "Merit",
+    "description": "One-time scholarship for meritorious students who have recently passed Class 10 or Class 12.",
+    "documents": ["Marksheet", "Admission Letter", "Identity Proof"]
+  },
+  {
+    "id": 185,
+    "name": "Luxury Connect Business School Scholarship Program",
+    "state": "All",
+    "incomeLimit": 800000,
+    "educationalRequirement": "12th",
+    "course": "Luxury Retail Management",
+    "category": "Any",
+    "description": "Tuition fee scholarship for eligible students enrolling in the Advanced Diploma in Luxury Retail Management & Client Experience.",
+    "documents": ["12th Marksheet", "Income Certificate", "Admission Letter"]
+  },
+  {
+    "id": 186,
+    "name": "uGSOT Scholarship Program",
+    "state": "All",
+    "incomeLimit": null,
+    "educationalRequirement": "12th",
+    "course": "Computer Science Engineering",
+    "category": "Any",
+    "description": "Scholarship for students pursuing B.Tech in Computer Science through the upGrad School of Technology entrance process.",
+    "documents": ["12th Marksheet", "Entrance Score", "Identity Proof"]
+  }
+]
